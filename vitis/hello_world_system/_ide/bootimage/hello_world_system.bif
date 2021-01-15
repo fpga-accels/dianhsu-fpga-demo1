@@ -1,0 +1,12 @@
+/* C:/Users/dianhsu/AppData/Local/Temp/bootgen_hello_world_system1837699926988382559/sd_card_temp/boot.bif */
+/* Command to create bitstream .bin file:       */
+/*   bootgen -image <bif_file> -split bin -w    */
+/* Command to create BOOT.BIN file:             */
+/*   bootgen  -image <bif_file> -w -o i BOOT.BIN */
+/*hw_platform*/
+the_ROM_image:
+{
+ [bootloader] C:/Users/dianhsu/workspace/hw_platform/export/hw_platform/sw/hw_platform/boot/fsbl.elf
+ C:/Users/dianhsu/workspace/hello_world/_ide/bitstream/tutorial_bd_wrapper.bit
+ C:/Users/dianhsu/workspace/hello_world/Debug/hello_world.elf
+}

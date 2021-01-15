@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jan 15 15:42:17 2021
+# Process ID: 12220
+# Current directory: C:/Users/dianhsu/Desktop/FPGA/edt_tutorial/edt_tutorial.runs/tutorial_bd_xbar_0_synth_1
+# Command line: vivado.exe -log tutorial_bd_xbar_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source tutorial_bd_xbar_0.tcl
+# Log file: C:/Users/dianhsu/Desktop/FPGA/edt_tutorial/edt_tutorial.runs/tutorial_bd_xbar_0_synth_1/tutorial_bd_xbar_0.vds
+# Journal file: C:/Users/dianhsu/Desktop/FPGA/edt_tutorial/edt_tutorial.runs/tutorial_bd_xbar_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source tutorial_bd_xbar_0.tcl -notrace
