@@ -10,3 +10,9 @@
 软件版本：Vitis 2020.2 Vivado 2020.2
 
 备注：故意把运行之后的文件也上传上来，方便对照
+
+文件夹介绍：
+
+- vitis：vitis相关代码
+- vivado：vivado相关代码
+- reference：参考的相关文档
